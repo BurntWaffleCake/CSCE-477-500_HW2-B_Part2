@@ -1,0 +1,15 @@
+{
+  "name": "juice-login-form",
+  "version": "1.0.0",
+  "description": "A bare-bones login form (HTML/JS front end + Express back end) inspired by OWASP Juice Shop's login page, built for CSCE 465/765 HW2 Part 2.",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
